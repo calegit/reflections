@@ -1,7 +1,15 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+	To moram narediti zato da lahko kazneje uporabljam staging prostor ter shranjujem commite 
+	v repository
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+	nekakšen vmesni prostor, tuče če hočemo nekaj komitati si lahko še vedno premislimo
+	enegantno lahko še vedno gledamo kaj delamo v delovni mapi ter kaj smo 
+	delali v repositoriju.
+	
 
 How can you use the staging area to make sure you have one commit per logical
 change?
