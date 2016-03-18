@@ -26,4 +26,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+   Kadar bi delal nekja čisto drugačnega mogoče eksperimentalnega, nekaj čemur še najbolj ne zaupam oz. glede tega nimam jasne vizije. 
+   
